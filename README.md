@@ -1,7 +1,6 @@
 # VotacionDescentralizada
 
-Felipe Cañas
-Maximo Lucero Ruiz
+Felipe Cañas - Maximo Lucero Ruiz
 
 Token Address: 0xD856af670A75f9Af1350eE6e217D8CD0aBF8fea1
 
