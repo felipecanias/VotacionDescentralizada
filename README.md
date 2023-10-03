@@ -9,3 +9,10 @@ Timelock Address: 0xd3d395D3c8e4a221F7ca4424eB3D6157F519F0Db
 Governor Address: 0x96dE3ff67aE0B53E4F9ece88631a2BFf601A5003
 
 DAO Url: https://www.tally.xyz/gov/n2votes
+
+Note:
+
+- granted Governor proposer role in Timelock
+- granted Governor executor role in Timelock
+- granted Timelock Minter role in ERC20 token
+- granted Governor Minter role in ERC20 token
