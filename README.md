@@ -12,7 +12,13 @@ DAO Url: https://www.tally.xyz/gov/n2votes
 
 Note:
 
-- granted Governor proposer role in Timelock
-- granted Governor executor role in Timelock
-- granted Timelock Minter role in ERC20 token
-- granted Governor Minter role in ERC20 token
+- Granted Governor proposer role in Timelock
+- Granted Governor executor role in Timelock
+- Granted Timelock Minter role in ERC20 token
+- Granted Governor Minter role in ERC20 token
+
+URLS:
+
+- https://sepolia.etherscan.io/
+- https://remix.ethereum.org/
+- https://www.openzeppelin.com/contracts
